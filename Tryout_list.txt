@@ -4,3 +4,8 @@ em - Roamer
 Thing2 - Pocket
 GrapeJuice - Roamer
 Amang - Roamer
+Aiera - Pocket/Roamer
+Starka - Medic
+XBS - Medic
+Tsar - Medic
+ScrewB - Pocket
